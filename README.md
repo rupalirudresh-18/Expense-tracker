@@ -82,13 +82,20 @@ http://127.0.0.1:8000/docs
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+### 🔹 Landing Page
+![Landing](screenshots/landing.png)
 
-```
-![Login Page](images/login.png)
-![Dashboard](images/dashboard.png)
-![Add Expense](images/add.png)
-```
+### 🔹 Signup Page
+![Signup](screenshots/signup.png)
+
+### 🔹 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 🔹 Add Expense
+![Add Expense](screenshots/add_expense.png)
+
+### 🔹 View Expenses
+![View Expenses](screenshots/view_expenses.png)
 
 ---
 
