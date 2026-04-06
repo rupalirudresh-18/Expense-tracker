@@ -121,4 +121,4 @@ Computer Science & Engineering Student
 - Token-based authentication using JWT
 - RESTful API design using FastAPI
 - Clean and responsive glassmorphism UI
-- State-managed frontend (no unnecessary page reloads)
+
